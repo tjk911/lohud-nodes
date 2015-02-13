@@ -5,14 +5,13 @@
     <meta http-equiv="Content-Type" content="text/html"> <meta name="viewport" content="initial-scale=0.5, maximum-scale=1, minimum-scale=0.2"/> 
     <!--[if lt IE 9]><script type="text/javascript" src="excanvas.js"></script><![endif]-->
     <link rel="shortcut icon" href="http://www.gannett-cdn.com/sites/lohud/images/favicon.png">
-    <link rel="stylesheet" href="css/foundation.css" />
+    <link rel="stylesheet" href="css/foundation.min.css" />
     <link rel="stylesheet" href="http://data.lohud.com/maps/css/base.css" />
-    <link rel="stylesheet" href="css/custom.css" />
+    <link rel="stylesheet" href="css/custom.min.css" />
     <script src="js/vendor/modernizr.js"></script>
-    <script src="js/springy.js"></script>
     <script src="js/vendor/jquery.js"></script>
-    <script type="text/javascript" src="js/cytoscape.js"></script>
-    <script type="text/javascript" src="js/mamaroneck.js"></script>
+    <script type="text/javascript" src="js/cytoscape.min.js"></script>
+    <script type="text/javascript" src="js/mamaroneck.min.js"></script>
   </head>
   <body class="claro">
   <div id="fb-root"></div>
