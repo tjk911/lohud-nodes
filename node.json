@@ -1,0 +1,60 @@
+{
+	"nodes": {
+		"data": [
+			{ "id": "mamaroneck", "drid": "mamaroneckModal", "label": "Mamaroneck High School"},
+			{ "id": "dfutterman", "drid": "dfuttermanModal", "label": "Dan Futterman" },
+            { "id": "bmiller", "drid": "bmillerModal", "label": "Bennett Miller" },
+            { "id": "drussell", "drid": "drussellModal", "label": "David O. Russell" },
+            { "id": "mkeefe", "drid": "mkeefeModal", "label": "Michael O'Keefe" },
+            { "id": "kdillon", "drid": "kdillonModal", "label": "Kevin Dillon" },
+            { "id": "mdillon", "drid": "mdillonModal", "label": "Matt Dillon" },
+            { "id": "birdcage", "drid": "birdcageModal", "label": "The Birdcage" },
+            { "id": "foxcatcher", "drid": "foxcatcherModal", "label": "Foxcatcher" },
+            { "id": "fighter", "drid": "fighterModal", "label": "The Fighter" },
+            { "id": "silverplaybook", "drid": "silverplaybookModal", "label": "Silver Linings Playbook" },
+            { "id": "hustle", "drid": "hustleModal", "label": "American Hustle" },
+            { "id": "capote", "drid": "capoteModal", "label": "Capote" },
+            { "id": "moneyball", "drid": "moneyballModal", "label": "Moneyball" },
+            { "id": "greatsantini", "drid": "greatsantiniModal", "label": "The Great Santini" },
+            { "id": "michaelclayton", "drid": "michaelclaytonModal", "label": "Michael Clayton" },
+            { "id": "homeland", "drid": "homelandModal", "label": "Homeland" },
+            { "id": "platoon", "drid": "platoonModal", "label": "Platoon" },
+            { "id": "blob", "drid": "blobModal", "label": "The Blob" },
+            { "id": "entourage", "drid": "entourageModal", "label": "Entourage" },
+            { "id": "outsiders", "drid": "outsidersModal", "label": "The Outsiders" },
+            { "id": "mary", "drid": "maryModal", "label": "There's Something About Mary" },
+            { "id": "crash", "drid": "crashModal", "label": "Crash" }
+		]
+	},
+
+	"edges": {
+		"data": [
+           { "source": "mamaroneck", "target": "dfutterman" },
+           { "source": "mamaroneck", "target": "bmiller" },
+           { "source": "mamaroneck", "target": "drussell" },
+           { "source": "mamaroneck", "target": "mkeefe" },
+           { "source": "mamaroneck", "target": "kdillon" },
+           { "source": "mamaroneck", "target": "mdillon" },
+           { "source": "dfutterman", "target": "foxcatcher", "label": "wrote" },
+           { "source": "dfutterman", "target": "capote", "label": "wrote" },
+           { "source": "dfutterman", "target": "birdcage", "label": "starred" },
+           { "source": "bmiller", "target": "foxcatcher", "label": "directed" },
+           { "source": "bmiller", "target": "capote", "label": "directed" },
+           { "source": "bmiller", "target": "moneyball", "label": "directed" },
+           { "source": "drussell", "target": "fighter", "label": "wrote, directed" },
+           { "source": "drussell", "target": "silverplaybook", "label": "wrote, directed" },
+           { "source": "drussell", "target": "hustle", "label": "wrote, directed" },
+           { "source": "mkeefe", "target": "greatsantini", "label": "starred" },
+           { "source": "mkeefe", "target": "michaelclayton", "label": "starred" },
+           { "source": "mkeefe", "target": "homeland", "label": "starred" },
+           { "source": "kdillon", "target": "platoon", "label": "starred" },
+           { "source": "kdillon", "target": "blob", "label": "starred" },
+           { "source": "kdillon", "target": "entourage", "label": "starred" },
+           { "source": "mdillon", "target": "outsiders", "label": "starred" },
+           { "source": "mdillon", "target": "mary", "label": "starred" },
+           { "source": "mdillon", "target": "crash", "label": "starred" },
+           { "source": "kdillon", "target": "mdillon", "label": "siblings" },
+           { "source": "mdillon", "target": "kdillon", "label": "siblings" }
+        ]
+    }
+}
