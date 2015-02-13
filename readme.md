@@ -16,7 +16,7 @@ To-do
 ==============
 
 * Cleanup and optimize code - heavy load on the page, CSS could do with additional cleaning
-* Figure out the numerous errors showing up in the inspector
+* ~~Figure out the numerous errors showing up in the inspector~~
 * Move more into the mamaroneck JSON and template it for scalability
 
 Contributors
@@ -36,3 +36,4 @@ Issues
 ==============
 
 * Responsive but not optimal
+* Cast_sender.js errors found to be originating from YouTube, no known fix, no known effects leaving it unfixed
