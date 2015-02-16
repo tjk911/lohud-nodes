@@ -1,12 +1,12 @@
 body { 
-  /*font: 14px helvetica neue, helvetica, arial, sans-serif;*/
+  font: italic bold;
   background-color: #F2F2F2;
   line-height: 1.5 !important;
 }
 
 p {
-  line-height: 2 !important;
-  margin-bottom:1.5em;
+  line-height: 1.5 !important;
+  margin-bottom:.75em;
 }
 
 h3 {

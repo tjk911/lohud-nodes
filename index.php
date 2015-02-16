@@ -6,12 +6,12 @@
     <!--[if lt IE 9]><script type="text/javascript" src="excanvas.js"></script><![endif]-->
     <link rel="shortcut icon" href="http://www.gannett-cdn.com/sites/lohud/images/favicon.png">
     <link rel="stylesheet" href="css/foundation.min.css" />
-    <link rel="stylesheet" href="http://data.lohud.com/maps/css/base.css" />
-    <link rel="stylesheet" href="css/custom.min.css" />
+    <link rel="stylesheet" href="css/base.css" />
+    <link rel="stylesheet" href="css/custom.css" />
     <script src="js/vendor/modernizr.js"></script>
     <script src="js/vendor/jquery.js"></script>
     <script type="text/javascript" src="js/cytoscape.min.js"></script>
-    <script type="text/javascript" src="js/mamaroneck.min.js"></script>
+    <script type="text/javascript" src="js/mamaroneck.js"></script>
   </head>
   <body class="claro">
   <div id="fb-root"></div>
@@ -31,11 +31,10 @@
       banner.innerHTML = "<a href='http://www.lohud.com'><img src='http://data.lohud.com/lohud%20logos/site-masthead-logo.png' width='300' /></a><br>";
     }
     </script>
-  <div id="mainWindow" data-dojo-type="dijit.layout.BorderContainer" data-dojo-props="design:'headline',gutters:false" style="width:100%; height:100%;">
 
      <!-- PROJECT HEAD -->
     <div id="header" class="head-wrap" data-dojo-type="dijit/layout/ContentPane" data-dojo-props="region:'top'">
-      <h2>MAMARONECK WHAT WHAT</h2>
+      <h2>Six degrees of Mamaroneck High School</h2>
 
       <h2><a href="https://twitter.com/share" class="twitter-share-button" data-url="#" data-text="#" data-via="lohud" data-hashtags="lohud">Tweet</a>
       <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script> 
@@ -43,7 +42,6 @@
     </div>
     <div id="cy"></div>
     <?php include('page/mainmodal.html') ?>
-  </div>
   <div id="main-footer">
       <div id="main-footer-inner">
       &copy;2015 lohud.com. All rights reserved. Users of this site agree to the <a target="_top" href="http://static.lohud.com/terms/">Terms of Service</a>, <a target="_top" href="http://static.lohud.com/privacy/">Privacy Notice</a>, and <a target="_top" href="http://static.lohud.com/privacy/#adchoices">Ad Choices</a>
