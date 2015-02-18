@@ -44,7 +44,7 @@
         })
       .selector('edge')
         .css({
-          'width': 15,
+          'width': 10,
           'target-arrow-shape': 'triangle',
           'source-arrow-shape': 'circle',
           'line-color': '#ABD7CA',
@@ -263,6 +263,8 @@
       });
   cy.minZoom(1/3);
   cy.maxZoom(1);
-
-      $(document).foundation();
+  $(document).foundation();
+  $(document).on('click tap touchstart', '.reveal-modal-bg', function() {
+    return $('[data-reveal]').foundation('reveal', 'close');
+}); 
   }); // on dom ready // on dom ready
