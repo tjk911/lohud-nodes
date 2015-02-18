@@ -44,7 +44,7 @@
         })
       .selector('edge')
         .css({
-          'width': 25,
+          'width': 15,
           'target-arrow-shape': 'triangle',
           'source-arrow-shape': 'circle',
           'line-color': '#ABD7CA',
