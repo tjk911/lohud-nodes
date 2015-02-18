@@ -4,6 +4,9 @@
     <title>Six degrees of Mamaroneck High School</title>
     <meta http-equiv="Content-Type" content="text/html"> <meta name="viewport" content="initial-scale=0.5, maximum-scale=1, minimum-scale=0.2"/> 
     <!--[if lt IE 9]><script type="text/javascript" src="excanvas.js"></script><![endif]-->
+    <meta property="og:locale" content="en_US">
+    <meta property="og:image" content="http://data.lohud.com/features/sixdegrees/assets/mhs2.jpg">
+    <meta property="og:image:type" content="image/jpeg">
     <link rel="shortcut icon" href="http://www.gannett-cdn.com/sites/lohud/images/favicon.png">
     <link rel="stylesheet" href="css/foundation.min.css" />
     <link rel="stylesheet" href="css/base.css" />
@@ -77,21 +80,22 @@
 
       
       <div class="large-12 columns">
-        <h2><a href="https://twitter.com/share" class="twitter-share-button" data-url="#" data-text="#" data-via="lohud" data-hashtags="lohud">Tweet</a>
+        <h2><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://data.lohud.com/features/sixdegrees" data-text="Six degrees of Mamaroneck High School" data-via="lohud" data-hashtags="tigerpride">Tweet</a>
         <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script> 
-        <div class="fb-like" data-href="#" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div></h2>
+        <div class="fb-like" data-href="http://data.lohud.com/features/sixdegrees" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div></h2>
 
         <img src="assets/mhs.jpg" class="circle left" style="padding-right: 10px; padding-top:10px; width:150px;"/>
 
         <p>The Lower Hudson Valley is getting <a href="http://www.lohud.com/story/news/local/2015/01/15/locals-academy-awards/21801343/">plenty of love</a> at this year's Oscars. Rye's <a href="http://www.lohud.com/story/entertainment/2015/01/15/chance-kelly-american-sniper/21820641/">Chance Kelly</a> gives orders to Bradley Cooper in "American Sniper," Rockland's Bill Murray provides a star turn in Wes Anderson's "The Grand Budapest Hotel" and Dobbs Ferry students in The Marching Cobras of New York show band provided the soundtrack to Michael Keaton's underwear-clad stroll through Times Square in "Birdman."</p>
 
-        <p>But there's two other nominees with local connections. Bennett Miller and Dan Futterman got nods for writing and directing "Foxcatcher," respectively. The filmmaking duo graduated from Mamaroneck High School in 1985, but they're far from the only MHS grads in Hollywood.</p>
+        <p>But there are two other nominees with local connections. Bennett Miller and Dan Futterman got nods for writing and directing "Foxcatcher," respectively. The filmmaking duo graduated from Mamaroneck High School in 1985, but they're far from the only MHS grads in Hollywood.</p>
 
         <p>"We didn't teach the PACE program to necessarily make these kids go into the arts professionally," says John Fredrickson, who taught theater for the school's Performing Arts Curriculum Experience program for 27 years. "But I've got to tell you, I'm incredibly proud."</p>
 
-        <p>There might be something in the school's water, because, since 2005, Mamaroneck alum have been nominated for nine Academy Awards - in the writing and directing categories alone - though they didn't take any statues home.</p>
+        <p>There might be something in the school's water, because, since 2005, Mamaroneck alums have been nominated for nine Academy Awards - in the writing and directing categories alone - though they didn't take any statues home.</p>
 
-        <p>Select the yearbook photos to find out who these Hollywood hitmakers are and to see highlights from their career. Watch their movie trailers by selecting the posters on the outside circle.</p>
+        <p>Select the yearbook photos to find out who these Hollywood hitmakers are and to see highlights from their career. Watch corresponding movie trailers by selecting the posters on the outside circle.</p>
+        <h5><p style="font-size:1em !important;"><i>Photos courtesy of Mamaroneck High School, AP Photo, Columbia Pictures, Sony Pictures Classics,  Warner Bros. Pictures, The Weinstein Company, United Artists,  Lions Gate Entertainment, FilmMagic, Getty Images, Paradigm Talent Agency, HBO Entertainment, MGM Studios, Imagine Entertainment, TriStar Pictures, Paramount Pictures and 20th Century Fox.</i><p></h5>
         <div class="asset-metabar left" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
           <span itemprop="name" class="asset-metabar-author asset-metabar-item">
             <img class="asset-metabar-avatar" src="http://www.gannett-cdn.com/-mm-/428820d82814b690f583f0fb12cf119aadd8fe26/c=41-481-2700-3139&amp;r=1024x1024&amp;r=26&amp;c=26x26/local/-/media/Westchester/USATODAY/2014/05/22//1400773553000-KevinPhelan01.jpg" height="26" width="26"> Kevin Phelan, kphelan@lohud.com, 
