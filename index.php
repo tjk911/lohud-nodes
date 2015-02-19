@@ -80,14 +80,15 @@
      <!-- PROJECT HEAD -->
     <div id="header" class="head-wrap" data-dojo-type="dijit/layout/ContentPane" data-dojo-props="region:'top'">
       <h2>Six degrees of Mamaroneck High School</h2>
+    </div>
 
       
       <div class="large-12 columns">
-        <h2><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://data.lohud.com/features/sixdegrees" data-text="Six degrees of Mamaroneck High School" data-via="lohud" data-hashtags="tigerpride">Tweet</a>
+        <h2 style="margin-bottom:10px"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://data.lohud.com/features/sixdegrees" data-text="Six degrees of Mamaroneck High School" data-via="lohud" data-hashtags="tigerpride">Tweet</a>
         <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script> 
         <div class="fb-like" data-href="http://data.lohud.com/features/sixdegrees" data-layout="standard" data-action="like" data-show-faces="false" data-share="true"></div></h2>
 
-        <img src="assets/mhs.jpg" class="circle left" style="padding-right: 10px; padding-top:10px; width:150px;"/>
+        <img src="assets/mhs.jpg" class="circle left" style="padding-right: 10px; padding-bottom:4px; width:150px;"/>
 
         <p>The Lower Hudson Valley is getting <a href="http://www.lohud.com/story/news/local/2015/01/15/locals-academy-awards/21801343/">plenty of love</a> at this year's Oscars. Rye's <a href="http://www.lohud.com/story/entertainment/2015/01/15/chance-kelly-american-sniper/21820641/">Chance Kelly</a> gives orders to Bradley Cooper in "American Sniper," Rockland's Bill Murray provides a star turn in Wes Anderson's "The Grand Budapest Hotel" and Dobbs Ferry students in The Marching Cobras of New York show band provided the soundtrack to Michael Keaton's underwear-clad stroll through Times Square in "Birdman."</p>
 
@@ -106,7 +107,6 @@
           <span><i> <a href="http://www.twitter.com/kev_incredulous">@kev_incredulous</a></i></span>
         </div>
       </div>
-    </div>
     <div class="large-12 columns"id="cy"></div>
     <?php include('page/mainmodal.html') ?>
   <div class="large-12 columns" id="main-footer">
